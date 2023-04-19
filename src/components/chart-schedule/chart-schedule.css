@@ -1,0 +1,13 @@
+.chart-schedule-conatiner{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin-top: 20px;
+}
+
+@media screen and (max-width:1024px) {
+    .chart-schedule-conatiner{
+        gap: 20px;
+        padding-bottom: 20px;
+    }
+}

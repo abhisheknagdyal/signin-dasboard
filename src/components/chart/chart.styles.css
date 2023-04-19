@@ -1,0 +1,40 @@
+.pie-chart-container{
+    background: #ffffff;
+    border-radius: 20px;
+    padding: 25px;
+}
+
+.pie-chart-heading{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.pie-chart-title{
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.pie-chart-date{
+    font-size: 12px;
+    color: #858585;
+}
+
+.chart-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(100px, 1fr));  
+}
+
+.legend-circle{
+    height: 8px;
+    width: 8px;
+    border-radius: 5px;
+    margin-bottom: 18px;
+}
+
+.legend-value{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
