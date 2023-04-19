@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a71f9f8c.css",
+    "main.js": "/static/js/main.501c6a70.js",
+    "static/js/787.ee7f462d.chunk.js": "/static/js/787.ee7f462d.chunk.js",
+    "static/media/setting.svg": "/static/media/setting.b7714a8fade07f8f74ebd65ae235bbf8.svg",
+    "static/media/revenue.svg": "/static/media/revenue.c547147df8c9f3579fb13ff56997fdab.svg",
+    "static/media/User.svg": "/static/media/User.5014fd8a56bd87c41338fa066a1dcb36.svg",
+    "static/media/transaction.svg": "/static/media/transaction.7f57ae48a8ed19d44941095dad128c7a.svg",
+    "static/media/user.svg": "/static/media/user.24c05054dd40371d3e40f0f86ed57740.svg",
+    "static/media/dashboard.svg": "/static/media/dashboard.1441389d3d6bdaa71958321e27f019e3.svg",
+    "static/media/bell.svg": "/static/media/bell.788ceac741c3977f304c0101a400edc8.svg",
+    "static/media/Like.svg": "/static/media/Like.149881ea0c81a84de22d7535a4aee8a0.svg",
+    "static/media/google.svg": "/static/media/google.5278f24075a9e91873aa15eb4d850238.svg",
+    "static/media/schedule.svg": "/static/media/schedule.28aa2bacdf14bf8afc519d2a5b80402f.svg",
+    "static/media/apple.svg": "/static/media/apple.0094fa1b70f174faff968a16b4e8d4fd.svg",
+    "static/media/dropdown.svg": "/static/media/dropdown.878255bd2b406b0256fe666b90aad3da.svg",
+    "static/media/arrow.svg": "/static/media/arrow.07e3151f5ff478e8b434dfc3833086f5.svg",
+    "index.html": "/index.html",
+    "main.a71f9f8c.css.map": "/static/css/main.a71f9f8c.css.map",
+    "main.501c6a70.js.map": "/static/js/main.501c6a70.js.map",
+    "787.ee7f462d.chunk.js.map": "/static/js/787.ee7f462d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a71f9f8c.css",
+    "static/js/main.501c6a70.js"
+  ]
+}
